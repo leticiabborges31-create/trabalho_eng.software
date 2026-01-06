@@ -12,3 +12,16 @@ Instale as bibliotecas necessárias para o projeto:
 ```bash
 pip install -r requirements.txt
 ```
+
+
+## Sobre o projeto
+Tem como objetivo implementação eficaz dos estudos aprendidos em sala de aula, é uma atividade focada gerenciar tarefas, permitindo que o usuário de crie, visualize, remova e atualize suas atividades ao longo do progresso.
+ Funcionalidades:
+
+Adicionar Tarefa: Cadastro com nome, descrição e status.
+Listar Tarefas: Exibição completa das tarefas e seus estados atuais.
+Remover Tarefa: Exclusão de itens selecionados.
+Alterar Status: Transição entre os estados: Disponível, Fazendo e Feita.
+
+### Padrões de Projeto Utilizados
+ 1. Singleton:
